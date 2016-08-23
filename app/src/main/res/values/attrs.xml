@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScrollTextView1">
+        <attr name="speed" format="integer"/>
+        <attr name="content" format="string"/>
+    </declare-styleable>
+
+</resources>
